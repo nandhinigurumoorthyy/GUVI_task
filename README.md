@@ -64,8 +64,8 @@ or you can simply drag the index.html file into your web browser
 Contributing
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch.
-Make your changes and commit them.
-Push your changes to your fork.
-Submit a pull request.
+1.Fork the repository.
+2.Create a new branch.
+3.Make your changes and commit them.
+4.Push your changes to your fork.
+5.Submit a pull request.
